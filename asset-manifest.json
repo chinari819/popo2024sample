@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/popo2024sample/static/css/main.7e2235f5.css",
-    "main.js": "/popo2024sample/static/js/main.33a6a489.js",
+    "main.css": "/popo2024sample/static/css/main.0328bd1e.css",
+    "main.js": "/popo2024sample/static/js/main.7165186d.js",
     "static/js/787.d4aba7ab.chunk.js": "/popo2024sample/static/js/787.d4aba7ab.chunk.js",
-    "static/media/test.png": "/popo2024sample/static/media/test.f25810e38ad9ab9275c1.png",
+    "static/media/test.png": "/popo2024sample/static/media/test.2a7815309ccb43c362eb.png",
     "static/media/Campus.jpg": "/popo2024sample/static/media/Campus.17b6358b684d7a3508b9.jpg",
     "index.html": "/popo2024sample/index.html",
-    "main.7e2235f5.css.map": "/popo2024sample/static/css/main.7e2235f5.css.map",
-    "main.33a6a489.js.map": "/popo2024sample/static/js/main.33a6a489.js.map",
+    "main.0328bd1e.css.map": "/popo2024sample/static/css/main.0328bd1e.css.map",
+    "main.7165186d.js.map": "/popo2024sample/static/js/main.7165186d.js.map",
     "787.d4aba7ab.chunk.js.map": "/popo2024sample/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e2235f5.css",
-    "static/js/main.33a6a489.js"
+    "static/css/main.0328bd1e.css",
+    "static/js/main.7165186d.js"
   ]
 }
