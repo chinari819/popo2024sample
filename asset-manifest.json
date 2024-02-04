@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/popo2024sample/static/css/main.f0d44f23.css",
-    "main.js": "/popo2024sample/static/js/main.63762819.js",
+    "main.css": "/popo2024sample/static/css/main.7e989e8e.css",
+    "main.js": "/popo2024sample/static/js/main.21554410.js",
     "static/js/787.d4aba7ab.chunk.js": "/popo2024sample/static/js/787.d4aba7ab.chunk.js",
     "static/media/test.png": "/popo2024sample/static/media/test.af89edd9be178ac2226a.png",
+    "static/media/表紙テスト.png": "/popo2024sample/static/media/表紙テスト.d3df03fdcab3599282f4.png",
     "static/media/Campus.jpg": "/popo2024sample/static/media/Campus.17b6358b684d7a3508b9.jpg",
     "index.html": "/popo2024sample/index.html",
-    "main.f0d44f23.css.map": "/popo2024sample/static/css/main.f0d44f23.css.map",
-    "main.63762819.js.map": "/popo2024sample/static/js/main.63762819.js.map",
+    "main.7e989e8e.css.map": "/popo2024sample/static/css/main.7e989e8e.css.map",
+    "main.21554410.js.map": "/popo2024sample/static/js/main.21554410.js.map",
     "787.d4aba7ab.chunk.js.map": "/popo2024sample/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0d44f23.css",
-    "static/js/main.63762819.js"
+    "static/css/main.7e989e8e.css",
+    "static/js/main.21554410.js"
   ]
 }
