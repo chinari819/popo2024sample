@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/popo2024sample/static/css/main.4d5410a3.css",
-    "main.js": "/popo2024sample/static/js/main.4150039b.js",
+    "main.js": "/popo2024sample/static/js/main.862ea5e0.js",
     "static/js/787.d4aba7ab.chunk.js": "/popo2024sample/static/js/787.d4aba7ab.chunk.js",
     "static/media/background.png": "/popo2024sample/static/media/background.d28bfad80803a290f734.png",
     "static/media/loading.png": "/popo2024sample/static/media/loading.4db8d02f9540eb4dad37.png",
@@ -9,11 +9,11 @@
     "static/media/Campus.jpg": "/popo2024sample/static/media/Campus.17b6358b684d7a3508b9.jpg",
     "index.html": "/popo2024sample/index.html",
     "main.4d5410a3.css.map": "/popo2024sample/static/css/main.4d5410a3.css.map",
-    "main.4150039b.js.map": "/popo2024sample/static/js/main.4150039b.js.map",
+    "main.862ea5e0.js.map": "/popo2024sample/static/js/main.862ea5e0.js.map",
     "787.d4aba7ab.chunk.js.map": "/popo2024sample/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d5410a3.css",
-    "static/js/main.4150039b.js"
+    "static/js/main.862ea5e0.js"
   ]
 }
